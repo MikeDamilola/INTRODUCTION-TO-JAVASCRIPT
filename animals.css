@@ -1,0 +1,32 @@
+#dogimage{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#intro{
+    font-style: italic;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.title{
+    font-weight: bold;
+}
+#list{
+    list-style: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#main-div{
+    border: 1px black solid;
+    padding: 15px;
+    width: 300px;
+    border-radius: 5%;
+}
+#second-div{
+    border: 1px black solid;
+    border-radius: 5%;
+}
+#details{
+    margin-right: 10px;
+    margin-left: 10px;
+}
